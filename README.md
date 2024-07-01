@@ -2,7 +2,7 @@
 Steven Adrian Gracia - C14210171
 
 # Dataset
-https://www.kaggle.com/datasets/amerzishminha/forest-fire-and-non-fire-dataset
+https://www.kaggle.com/datasets/amerzishminha/forest-fire-and-non-fire-dataset <br />
 https://universe.roboflow.com/gachon-najs3/bowfire-0fqng
 
 # References
